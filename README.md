@@ -1,7 +1,8 @@
 # my_vim_settings
 Настройки vim
 
-- место: ~/.vimrc
+- место Mac: ~/.vimrc
+- место Win: ~/_vimrc
 
 ## Plugins
 ### Установка Plug
